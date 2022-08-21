@@ -24,7 +24,6 @@ h2 {
 .container {
   width: 400px;
   margin: 0 auto;
-  padding-left: 5%;
   padding-right: 5%;
 }
 
@@ -100,4 +99,9 @@ footer {
   padding: 60px 0;
   text-align: center;
   color: #aaa;
+}
+
+/* option */
+div img{
+  padding-left: 5%;
 }
