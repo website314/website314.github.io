@@ -19,9 +19,13 @@ h2 {
   font-weight: normal;
 }
 
+
+
 .container {
   width: 400px;
   margin: 0 auto;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 a {
@@ -50,7 +54,7 @@ header .container div + div {
 }
 
 header h1 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 header ul {
